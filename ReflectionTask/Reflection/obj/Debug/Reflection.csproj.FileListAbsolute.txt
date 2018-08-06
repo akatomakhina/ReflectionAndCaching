@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ReflectionTask\Reflection\bin\Debug\Reflection.exe.config
+C:\Users\user\source\repos\ReflectionTask\Reflection\bin\Debug\Reflection.exe
+C:\Users\user\source\repos\ReflectionTask\Reflection\bin\Debug\Reflection.pdb
+C:\Users\user\source\repos\ReflectionTask\Reflection\obj\Debug\Reflection.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ReflectionTask\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ReflectionTask\Reflection\obj\Debug\Reflection.exe
+C:\Users\user\source\repos\ReflectionTask\Reflection\obj\Debug\Reflection.pdb

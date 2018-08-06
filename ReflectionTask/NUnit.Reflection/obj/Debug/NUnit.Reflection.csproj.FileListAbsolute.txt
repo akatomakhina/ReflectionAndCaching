@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\ReflectionTask\NUnit.Reflection\obj\Debug\NUnit.Reflection.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ReflectionTask\NUnit.Reflection\obj\Debug\NUnit.Reflection.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ReflectionTask\NUnit.Reflection\bin\Debug\NUnit.Reflection.dll
+C:\Users\user\source\repos\ReflectionTask\NUnit.Reflection\bin\Debug\NUnit.Reflection.pdb
+C:\Users\user\source\repos\ReflectionTask\NUnit.Reflection\bin\Debug\nunit.framework.dll
+C:\Users\user\source\repos\ReflectionTask\NUnit.Reflection\bin\Debug\Reflection.exe
+C:\Users\user\source\repos\ReflectionTask\NUnit.Reflection\bin\Debug\Reflection.pdb
+C:\Users\user\source\repos\ReflectionTask\NUnit.Reflection\bin\Debug\Reflection.exe.config
+C:\Users\user\source\repos\ReflectionTask\NUnit.Reflection\bin\Debug\nunit.framework.xml
+C:\Users\user\source\repos\ReflectionTask\NUnit.Reflection\obj\Debug\NUnit.Reflection.csproj.CopyComplete
+C:\Users\user\source\repos\ReflectionTask\NUnit.Reflection\obj\Debug\NUnit.Reflection.dll
+C:\Users\user\source\repos\ReflectionTask\NUnit.Reflection\obj\Debug\NUnit.Reflection.pdb
